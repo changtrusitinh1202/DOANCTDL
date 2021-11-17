@@ -1,0 +1,32 @@
+A.Lionel Messi
+B.Cristiano Ronaldo
+A.23
+B.12
+A.Dai Viet
+B.Van Lang
+C.Nguyen Sen
+D.Dang Lan
+A.4
+B.8
+C.Ninh Binh
+D.Thanh Hoa
+A.Can bac 5 cua 5
+B.Can bac 4 cua 4
+C.100100
+D.110000
+C.Hy Lap
+D.Anh
+C.5
+D.7
+A.Ho Chi Minh
+B.Pham Van Dong
+A.Canada
+B.Trung Quoc
+A.Neil Armstrong
+B.Buzz Aldrin
+A.Vet va Qua
+B.Vet va Dieu Hau
+A.Giai lua vat ngang
+B.Ngung tu hao quang
+A.Barcelona
+B.Real Madrid
